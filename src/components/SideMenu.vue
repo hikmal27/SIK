@@ -20,10 +20,10 @@
             <div class="tw-mt-8 tw-pl-9">
                 <div class="tw-px-5">
                     <p class="tw-text-gray-300 tw-text-lg">Templates</p>
-                    <router-link to="/auto-reply">
+                    <router-link to="/users">
                         <div class="tw-flex tw-space-x-3 tw-mt-6 tw-text-gray-600">
-                            <q-icon name="eva-flip-2-outline" class="tw-text-3xl" />
-                            <p class="tw-text-lg">Auto Reply</p>
+                            <q-icon name="eva-people-outline" class="tw-text-3xl" />
+                            <p class="tw-text-lg">Users</p>
                         </div>
                     </router-link>
                     <router-link to="/message">
